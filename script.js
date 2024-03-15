@@ -47,7 +47,7 @@ function calculateAge(){
      </div>
 
      <div class="result-item">
-     <h3>Monts Passed:</h3>
+     <h3>Months Passed:</h3>
      <p>${ageInMonths}</p>
      </div>
 
